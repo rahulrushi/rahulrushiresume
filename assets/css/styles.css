@@ -437,28 +437,28 @@ img {
   background-color: var(--first-color);
 }
 .skills__html {
-  width: 90%;
+  width: 100%;
 }
 .skills__css {
-  width: 80%;
+  width: 90%;
 }
 .skills__js {
-  width: 70%;
+  width: 80%;
 }
 .skills__react {
-  width: 40%;
+  width: 80%;
 }
 .skills__ps {
-  width: 90%;
+  width: 100%;
 }
 .skills__ai {
-  width: 70%;
+  width: 80%;
 }
 .skills__ae {
-  width: 60%;
+  width: 70%;
 }
 .skills__ca {
-  width: 90%;
+  width: 80%;
 }
 .skills__close .skills__list {
   height: 0;
